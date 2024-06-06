@@ -33,13 +33,18 @@ Its an advanced analytics solution using Power BI providing a comprehensive over
 (D) Product performance of different segments in terms of key metrics like NS, GM, GM%.
 (F) Distribution spliting the Net-Sales & Total-Post Invoice/Pre-invoice sales and its further division of Net-Sales by Total-COGS & Gross Margin
 
-## **Screenshots of Power BI  Final Report :-**
+## **Screenshots of Power BI Final Report :-**
 
-***𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥***
+***Sales view***
+![Data Model](https://github.com/11KrishnaKumar/PowerBI-SQL-project--Business-Insights-360/blob/main/Dashboard%20Images/Business%20Insights360-%20Sales%20view.PNG?raw=true)
 
-![Data Model](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/data_model.png?raw=true)
 
 
-***Dashboard Screenshot***
-![Dashboard](https://github.com/11KrishnaKumar/PowerBI-project--Shopping-Mart-Supply-Chain-Data-Analysis/blob/main/Dashboard%20Images/Dashboard.jpg?raw=true)
+***Finance view***
+![Data Model](https://github.com/11KrishnaKumar/PowerBI-SQL-project--Business-Insights-360/blob/main/Dashboard%20Images/Business%20Insights360-Finance%20view.PNG?raw=true)
+
+
+
+***Supply Chain view***
+![Data Model](https://github.com/11KrishnaKumar/PowerBI-SQL-project--Business-Insights-360/blob/main/Dashboard%20Images/Business%20Insights360-Supply%20Chain%20view.PNG?raw=true)
 
